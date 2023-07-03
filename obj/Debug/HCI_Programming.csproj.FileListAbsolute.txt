@@ -1,0 +1,14 @@
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\bin\Debug\HCI_Programming.exe
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\bin\Debug\HCI_Programming.exe.config
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.calculator.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.form_BMI.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.Properties.Resources.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.csproj.GenerateResource.cache
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.csproj.CoreCompileInputs.cache
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.exe
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.pdb
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\bin\Debug\HCI_Programming.pdb
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.form_BSA.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.form_BEE.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.form_WHR.resources
+C:\Users\jjn06\Desktop\HCI\HCI_Programming\obj\Debug\HCI_Programming.csproj.AssemblyReference.cache
